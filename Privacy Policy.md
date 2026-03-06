@@ -8,7 +8,7 @@
 
 ## 1. Overview
 
-This Privacy Policy explains what data Nexus Bot collects, how it is used, and how it is stored. By using Nexus Bot, you agree to the collection and use of data as described here.
+This Privacy Policy explains what data Nexus Bot collects, how it is used, and how it is stored. By using Nexus, you agree to the collection and use of data as described here.
 
 ## 2. Data We Collect
 
