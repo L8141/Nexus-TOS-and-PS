@@ -1,2 +1,2 @@
-# Nexus-TOS
-The terms of Service for the discord bot 'Nexus'.
+# Nexus-Terms of Service & Privacy Statement
+The Terms of Service & Privacy Statement for the discord bot 'Nexus'.
