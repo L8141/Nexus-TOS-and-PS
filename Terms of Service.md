@@ -12,7 +12,7 @@ By adding Nexus Bot to your Discord server or using any of its features, you agr
 
 ## 2. Eligibility
 
-You must meet Discord's minimum age requirement of 13 years old to use Nexus Bot. By using the bot, you confirm that you meet this requirement.
+You must meet Discord's minimum age requirement of 13 years old to use Nexus. By using the bot, you confirm that you meet this requirement.
 
 ## 3. Permitted Use
 
@@ -36,7 +36,7 @@ To the fullest extent permitted by law, Nexus Bot and its developers shall not b
 
 ## 7. Changes to These Terms
 
-We reserve the right to update these Terms of Service at any time. Continued use of Nexus Bot after changes are made constitutes acceptance of the updated terms.
+We reserve the right to update these Terms of Service at any time. Continued use of Nexus after changes are made constitutes acceptance of the updated terms.
 
 ## 8. Contact
 
